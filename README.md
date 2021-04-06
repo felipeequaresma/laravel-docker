@@ -1,5 +1,5 @@
 # Configuração de Ambiente Laravel com Docker
-  Configuração de ambiente de desenvolvimento **Laravel** com **Docker e Docker compose**.
+  Configuração de ambiente de desenvolvimento **Laravel** com **Docker** e **Docker Compose**.
  
 ```
  Requisitos
