@@ -1,4 +1,4 @@
-# Configuração de Ambiente com Docker Compose
+# Configuração de Ambiente Laravel com Docker
   Configuração de ambiente de desenvolvimento **Laravel** com **Docker e Docker compose**.
  
 ```
